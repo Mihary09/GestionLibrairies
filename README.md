@@ -43,7 +43,7 @@ Base de données MySQL.
 bash
 git clone https://github.com/Mihary09/GestionLibrairies.git
 
-2/ Importez le fichier database.sql dans votre base de données MySQL pour créer les tables nécessaires.
+2/ Importez le fichier librairies.sql qui se trouve dans le dossier BD dans votre base de données MySQL pour créer les tables nécessaires.
 
 3/ Configurez la connexion à la base de données dans library/App/livre.php :
 
